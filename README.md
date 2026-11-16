@@ -65,4 +65,4 @@ Protected routes need the header `Authorization: Bearer <token>`.
 5. Run the seed once from your computer with the same `MONGODB_URI`, or add products from the Admin page.
 
 ## Live demo
-Add your Render link here after deploying.
+https://ecommerce-app-1nh5.onrender.com
